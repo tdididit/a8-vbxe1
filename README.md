@@ -1,5 +1,5 @@
 # a8-vbxe1
- Video Board XE v1.x for Atari XL/XE
+ Video Board XE v1.2 for Atari XL/XE
 
 
 Directories:
